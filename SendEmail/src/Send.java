@@ -20,6 +20,7 @@ public class Send {
 				}
 			});
 
+		//fIVE THOUSAND COMMENTS IN BULK!!!!!!!!!!
 		try {
 
 			Message message = new MimeMessage(session);
